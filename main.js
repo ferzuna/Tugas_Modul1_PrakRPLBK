@@ -33,22 +33,22 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <td>${data.nama_panggilan}</t>
                             </tr>
                             <tr>
-                                <th>NIM</th>
+                                <th>NIM Mahasiswa</th>
                                 <td>:</td>
                                 <td>${data.nim}</t>
                             </tr>
                             <tr>
-                                <th>Nomor Telepon</th>
+                                <th>Nomor Telepon Mahasiswa</th>
                                 <td>:</td>
                                 <td>${data.nomor_telepon}</t>
                             </tr>
                             <tr>
-                                <th>Id Line</th>
+                                <th>Id Line Mahasiswa</th>
                                 <td>:</td>
                                 <td>${data.id_line}</t>
                             </tr>
                             <tr>
-                                <th>Email</th>
+                                <th>Email Aktif Mahasiswa</th>
                                 <td>:</td>
                                 <td>${data.email}</t>
                             </tr>
